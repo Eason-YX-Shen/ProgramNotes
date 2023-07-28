@@ -1,0 +1,25 @@
+<#
+    .LINK
+    https://learn.microsoft.com/en-us/powershell/scripting/lang-spec/chapter-14?view=powershell-7.3
+
+    .DESCRIPTION
+        <對function的詳細描述，每個主題限使用一次>
+    .EXAMPLE
+        <顯示該命令用法的範例，每個主題可以使用多次>
+    .EXTERNALHELP 
+        <XML Help File Path，用於指定Function基於XML幫助文件的路徑>
+    .FORWARDHELPTARGETNAME 
+        <Command-Name> (重定向到指定的help topic)
+    .INPUTS
+        <Pipeline 執行中會加入的Object>
+    .LINK
+        <指定相關主題的名稱或URL>
+    .NOTES
+        <提供有關function的附加信息>
+    .OUTPUTS
+        <描述命令輸出的對象>
+    .PARAMETER 
+        <對指定參數的詳細描述>
+    .SYNOPSIS
+        <用於對function的簡單描述>
+#>
